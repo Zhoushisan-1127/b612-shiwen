@@ -12,8 +12,8 @@ B612·拾文是一款 Windows 桌面文档工具，用于整理 AI 生成的 Mar
 
 下载时请选择：
 
-- `B612·拾文-安装版-v1.5.5.exe`
-- `B612·拾文-安装版-v1.5.5.exe.sha256`
+- `B612-Shiwen-Setup-v1.5.5.exe`
+- `B612-Shiwen-Setup-v1.5.5.exe.sha256`
 
 ## 主要功能
 
