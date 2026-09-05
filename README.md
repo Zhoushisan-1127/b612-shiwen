@@ -1,8 +1,10 @@
-# B612·拾文
+# B612·拾文：Markdown 转 Word / WPS 工具
 
 > 替你省下繁琐排版的时间，把时间留给真正热爱的事。
 
 B612·拾文是一款 Windows 桌面文档工具，用于编辑和整理 AI 生成的 Markdown 内容，将排版后的文字、图片、表格和公式复制到 Microsoft Word、WPS Office，或导出为 Word 文档。
+
+A Windows desktop app for converting Markdown and LaTeX content to Word documents with editable equations.
 
 ## 下载与安装
 
